@@ -6,7 +6,7 @@ An interactive Power BI dashboard built on BlinkIT's grocery sales data, providi
 
 ## 📊 Dashboard Preview
 
-![BlinkIT Dashboard]()
+![BlinkIT Dashboard](https://github.com/harshr81/Blinkit-Sales-Analysis-Dashboard/blob/b8cb46fefb756a6502300db898632084755ec330/images/Blinkit%20dashboard.png)
 
 ---
 
@@ -94,4 +94,4 @@ To analyze BlinkIT's grocery sales data and uncover actionable insights around:
 
 ## 📬 Connect
 
-If you found this project useful or have feedback, feel free to connect with me on [LinkedIn]().
+If you found this project useful or have feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-ranjan-759b81284/).
